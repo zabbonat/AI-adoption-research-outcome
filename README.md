@@ -74,6 +74,4 @@ The scripts in `code/01_build_data/` rebuild the derived data files from the raw
 - `scarica_abstract_campi.py`: stratified abstract download from the OpenAlex API and lexical index (`lessico_campo_anno.csv`)
 - `flags_check.py`: calibration of the OpenAlex top-percentile flags (Supplementary Information)
 
-## Citation
 
-If you use these data or code, please cite the paper.
