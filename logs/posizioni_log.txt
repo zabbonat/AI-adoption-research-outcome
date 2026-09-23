@@ -1,0 +1,19 @@
+adottanti appaiati: 16821 | con primo paper trovato: 16790
+posizione
+middle    9296
+last      4880
+first     2614
+corrispondente:
+corrispondente
+False    15483
+True      1307
+n_autori:
+count    16790.000000
+mean         5.596307
+std          3.143554
+min          1.000000
+25%          4.000000
+50%          5.000000
+75%          7.000000
+max         25.000000
+primo o ultimo o corrispondente: 7936

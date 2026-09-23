@@ -1,0 +1,61 @@
+file letti: 751061
+coppie autore-lavoro: 25317367 | lavori distinti: 15585124 | autori: 357106
+lavori distinti 2012-2024 con campo: 15357392 | senza campo: 227732
+
+soglie medie per anno (media sui campi):
+              n     q90      q99  quota90  quota99   media
+year                                                      
+2012  36612.000  13.385   47.538    0.105    0.010   5.140
+2013  37123.692  13.808   49.423    0.106    0.010   5.434
+2014  38171.769  13.769   49.154    0.107    0.010   5.515
+2015  39024.885  14.154   49.731    0.107    0.010   5.689
+2016  41148.885  14.885   53.423    0.106    0.010   6.004
+2017  42011.115  16.615   58.962    0.105    0.010   6.809
+2018  44643.500  18.654   67.577    0.104    0.010   7.729
+2019  47968.154  20.808   73.462    0.104    0.010   8.662
+2020  49905.962  24.154  101.962    0.104    0.010  11.099
+2021  51479.231  23.231   81.538    0.104    0.010   9.966
+2022  51885.846  22.577   75.500    0.104    0.010   9.583
+2023  53055.154  15.077   51.192    0.107    0.010   6.259
+2024  57638.731   5.192   19.269    0.117    0.011   1.987
+
+soglie 2019 per campo:
+                                       field      n  q90  q99  quota90  quota99
+        Agricultural and Biological Sciences  42153   20   60 0.106707 0.010130
+                         Arts and Humanities   6036    6   25 0.101392 0.010934
+Biochemistry, Genetics and Molecular Biology  98071   26   96 0.104771 0.010044
+         Business, Management and Accounting  17433   16   60 0.107096 0.010325
+                        Chemical Engineering   5365   28  105 0.104753 0.010252
+                                   Chemistry  25731   26   80 0.104310 0.010221
+                            Computer Science 138926   22  112 0.100888 0.010049
+                           Decision Sciences  12115   20   73 0.100619 0.010235
+                Earth and Planetary Sciences  29067   19   68 0.102143 0.010011
+         Economics, Econometrics and Finance  12097   16   66 0.106638 0.010085
+                                      Energy  16570   49  162 0.100543 0.010078
+                                 Engineering 264274   22   79 0.101781 0.010122
+                       Environmental Science  62424   27   85 0.106369 0.010060
+                 Immunology and Microbiology  14811   24   92 0.102356 0.010060
+                           Materials Science  66018   30   98 0.102411 0.010073
+                                 Mathematics   8978   17   72 0.104143 0.010025
+                                    Medicine 260668   18   69 0.100147 0.010086
+                                Neuroscience  25345   23   87 0.104794 0.010101
+                                     Nursing   4720   20   51 0.104449 0.010381
+  Pharmacology, Toxicology and Pharmaceutics   4597   21   57 0.105504 0.010007
+                       Physics and Astronomy  50893   22   87 0.106341 0.010041
+                                  Psychology  21002   17   56 0.105942 0.010523
+                             Social Sciences  39962   13   53 0.103373 0.010360
+                                  Veterinary   1285   12   33 0.113619 0.010895
+                                   Dentistry   3595   14   41 0.113769 0.011127
+                          Health Professions  15036   13   43 0.100160 0.010242
+
+quota top10 fra i lavori (coppie): 0.1403 | top1: 0.0181 | lavori transformer: 207351
+anni-autore: 3479862
+        n_works_fw     c3_medio     top10_fw     top1_fw  top10_fw_net  top1_fw_net
+count  3479862.000  3479862.000  3479862.000  3479862.00   3479862.000  3479862.000
+mean         7.183        8.346        1.008        0.13         0.994        0.127
+std          7.691       29.098        2.148        0.57         2.140        0.565
+min          1.000        0.000        0.000        0.00         0.000        0.000
+25%          2.000        1.585        0.000        0.00         0.000        0.000
+50%          5.000        4.500        0.000        0.00         0.000        0.000
+75%          9.000        9.500        1.000        0.00         1.000        0.000
+max        198.000    15407.000       80.000       48.00        80.000       48.000

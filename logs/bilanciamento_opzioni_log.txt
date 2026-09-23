@@ -1,0 +1,54 @@
+
+[matched completo, 16,821 coppie] trattati 16821 | controlli 16821 | max |d_std| 0.049
+        var     tr     co      d
+1 works_pre  7.548  7.716 -0.017
+2   cit_pre  5.977  6.153 -0.007
+3     h_pre 24.490 24.233  0.015
+4   eta_pre 17.197 17.400 -0.024
+5 slope_pre  0.057  0.053  0.025
+6   ai_anni  1.618  1.692 -0.049
+7  ai_quota  0.295  0.308 -0.048
+
+[B: restrizione non-CS per autore (usato finora)] trattati 6112 | controlli 9702 | max |d_std| 1.003
+        var     tr     co      d
+1 works_pre  8.070  8.271 -0.016
+2   cit_pre  5.671  5.856 -0.024
+3     h_pre 26.669 26.535  0.007
+4   eta_pre 17.361 17.354  0.001
+5 slope_pre  0.057  0.060 -0.020
+6   ai_anni  0.433  1.348 -1.002
+7  ai_quota  0.078  0.243 -1.003
+
+[C: solo coppie con entrambi non-CS] trattati 3793 | controlli 3793 | max |d_std| 0.991
+        var     tr     co      d
+1 works_pre  8.252  9.025 -0.049
+2   cit_pre  6.083  7.044 -0.102
+3     h_pre 27.680 28.995 -0.069
+4   eta_pre 16.882 16.658  0.027
+5 slope_pre  0.063  0.071 -0.057
+6   ai_anni  0.421  1.317 -0.984
+7  ai_quota  0.076  0.238 -0.991
+
+coppie intatte in C: 3793
+
+composizione per campo, trattati contro controlli in B (quota):
+                                         campo    g0    g1   diff
+1 Biochemistry, Genetics and Molecular Biology 0.062 0.167  0.104
+2                                     Medicine 0.110 0.214  0.104
+3                                  Engineering 0.413 0.346 -0.067
+4                 Earth and Planetary Sciences 0.075 0.017 -0.059
+5                        Physics and Astronomy 0.064 0.025 -0.039
+6                        Environmental Science 0.066 0.029 -0.038
+7                            Decision Sciences 0.019 0.008 -0.011
+8                              Social Sciences 0.026 0.037  0.011
+
+stessa cosa in C:
+                                         campo    g0    g1   diff
+1 Biochemistry, Genetics and Molecular Biology 0.074 0.178  0.105
+2                                     Medicine 0.119 0.215  0.096
+3                                  Engineering 0.408 0.342 -0.066
+4                 Earth and Planetary Sciences 0.071 0.016 -0.055
+5                        Environmental Science 0.071 0.028 -0.043
+6                        Physics and Astronomy 0.065 0.023 -0.042
+7                            Decision Sciences 0.023 0.009 -0.014
+8                              Social Sciences 0.023 0.034  0.011

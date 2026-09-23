@@ -1,0 +1,29 @@
+=== CALENDAR-TIME, RIFERIMENTO 2016 E 2018, ESITI DELLA VERSIONE EVENT-TIME ===
+
+campione: 3968 autori (trattati 1984); senza coorte 2018: 3954 (trattati 1977)
+
+=================== RIFERIMENTO 2016 ===================
+  citation_three_years +1.4561 (SE 0.7355)  Mbar 0.10  pre_sig 0/2  Wald p 0.675
+  top10_fw         +0.3038 (SE 0.0737)  Mbar 0.50  pre_sig 0/2  Wald p 0.249
+  top1_fw          +0.0725 (SE 0.0306)  Mbar 0.30  pre_sig 0/2  Wald p 0.236
+  top10_fw_net     +0.2505 (SE 0.0735)  Mbar 0.40  pre_sig 0/2  Wald p 0.256
+  top1_fw_net      +0.0631 (SE 0.0305)  Mbar 0.10  pre_sig 0/2  Wald p 0.238
+  log_works        +0.0564 (SE 0.0191)  Mbar 0.20  pre_sig 1/2  Wald p 0.097
+  log_net          +0.0098 (SE 0.0192)  Mbar 0.00  pre_sig 1/2  Wald p 0.094
+
+=================== RIFERIMENTO 2018 ===================
+  citation_three_years -0.2488 (SE 0.7574)  Mbar 0.00  pre_sig 3/4  Wald p 0.069
+  top10_fw         +0.0964 (SE 0.0603)  Mbar 0.00  pre_sig 4/4  Wald p 0.000
+  top1_fw          +0.0064 (SE 0.0204)  Mbar 0.00  pre_sig 3/4  Wald p 0.051
+  top10_fw_net     +0.0165 (SE 0.0601)  Mbar 0.00  pre_sig 4/4  Wald p 0.000
+  top1_fw_net      -0.0072 (SE 0.0203)  Mbar 0.00  pre_sig 3/4  Wald p 0.055
+  log_works        +0.0772 (SE 0.0182)  Mbar 0.30  pre_sig 2/4  Wald p 0.062
+  log_net          +0.0172 (SE 0.0184)  Mbar 0.00  pre_sig 2/4  Wald p 0.070
+
+profili per anno, riferimento 2016:
+citation_three_years : 2014 -0.178(0.742)  2015 +0.240(0.780)  2017 +0.497(0.870)  2018 +1.848(0.778)  2019 +1.872(1.005)  2020 +2.507(1.113)  2021 +0.704(0.934)  2022 +1.309(1.289) 
+top1_fw : 2014 +0.001(0.019)  2015 +0.036(0.025)  2017 +0.025(0.033)  2018 +0.078(0.034)  2019 +0.077(0.032)  2020 +0.118(0.034)  2021 +0.070(0.036)  2022 +0.068(0.036) 
+log_works : 2014 -0.020(0.021)  2015 -0.041(0.019)  2017 -0.033(0.019)  2018 +0.005(0.020)  2019 +0.052(0.022)  2020 +0.112(0.024)  2021 +0.144(0.024)  2022 +0.149(0.026)  2023 +0.032(0.027)  2024 -0.009(0.028) 
+log_net : 2014 -0.020(0.021)  2015 -0.041(0.019)  2017 -0.033(0.019)  2018 +0.002(0.020)  2019 +0.041(0.022)  2020 +0.066(0.024)  2021 +0.065(0.024)  2022 +0.027(0.027)  2023 -0.040(0.028)  2024 -0.050(0.028) 
+
+FATTO.

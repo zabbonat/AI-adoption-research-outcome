@@ -1,0 +1,62 @@
+=== STIME DEFINITIVE, PRE DAL 2014 ===
+
+=================== SPECIFICA PRINCIPALE ===================
+appaiati 33642 (trattati 16821) | max abs d_std = 0.049
+works_pre   cit_pre     h_pre   eta_pre slope_pre   ai_anni  ai_quota 
+   -0.017    -0.007     0.015    -0.024     0.025    -0.049    -0.048 
+campione di stima: 15814 autori (trattati 6112)
+
+  citation_three_years   +1.3280 (SE 0.2897)  Mbar 0.60  pre_sig 0/2  Wald p 0.089
+  big_hits10             +0.6533 (SE 0.0502)  Mbar 1.10  pre_sig 1/2  Wald p 0.000
+  big_hits1              +0.7095 (SE 0.0481)  Mbar 1.50  pre_sig 1/2  Wald p 0.000
+  log_works              +0.0492 (SE 0.0095)  Mbar 0.40  pre_sig 0/2  Wald p 0.374
+  log_net                +0.0070 (SE 0.0096)  Mbar 0.00  pre_sig 0/2  Wald p 0.380
+
+medie pre-adozione nel campione di stima:
+    cit   b10     b1 works
+1 5.556 1.749 0.6564 8.325
+
+=================== I TRE BACINI ===================
+
+bacino A | appaiati 39062 | max abs d_std = 0.075
+  citation_three_years   +1.4807 (SE 0.2891)  Mbar 0.50  pre_sig 1/2  Wald p 0.009
+  big_hits10             +0.8109 (SE 0.0483)  Mbar 1.10  pre_sig 1/2  Wald p 0.017
+  big_hits1              +0.9749 (SE 0.0480)  Mbar >2  pre_sig 1/2  Wald p 0.000
+  log_works              +0.0837 (SE 0.0079)  Mbar 0.60  pre_sig 2/2  Wald p 0.002
+  log_net                +0.0450 (SE 0.0079)  Mbar 0.30  pre_sig 2/2  Wald p 0.002
+
+bacino B | appaiati 38764 | max abs d_std = 0.080
+  citation_three_years   +1.5368 (SE 0.2947)  Mbar 0.50  pre_sig 1/2  Wald p 0.016
+  big_hits10             +0.8084 (SE 0.0483)  Mbar 1.20  pre_sig 1/2  Wald p 0.036
+  big_hits1              +0.9867 (SE 0.0480)  Mbar >2  pre_sig 2/2  Wald p 0.000
+  log_works              +0.0841 (SE 0.0079)  Mbar 0.50  pre_sig 2/2  Wald p 0.000
+  log_net                +0.0451 (SE 0.0079)  Mbar 0.30  pre_sig 2/2  Wald p 0.000
+
+bacino C | appaiati 33642 | max abs d_std = 0.025
+  citation_three_years   +1.3280 (SE 0.2897)  Mbar 0.60  pre_sig 0/2  Wald p 0.089
+  big_hits10             +0.6533 (SE 0.0502)  Mbar 1.10  pre_sig 1/2  Wald p 0.000
+  big_hits1              +0.7095 (SE 0.0481)  Mbar 1.50  pre_sig 1/2  Wald p 0.000
+  log_works              +0.0492 (SE 0.0095)  Mbar 0.40  pre_sig 0/2  Wald p 0.374
+  log_net                +0.0070 (SE 0.0096)  Mbar 0.00  pre_sig 0/2  Wald p 0.380
+
+=================== PROFILI ===================
+   anno  log_works    log_net differenza
+1  2014 -0.0148210 -0.0147186 -0.0001024
+2  2015  0.0005637  0.0004189  0.0001448
+3  2017 -0.0261105 -0.0265136  0.0004031
+4  2018 -0.0334969 -0.0349911  0.0014941
+5  2019  0.0169731  0.0094570  0.0075161
+6  2020  0.0690876  0.0343450  0.0347426
+7  2021  0.1087105  0.0400752  0.0686352
+8  2022  0.1666345  0.0321351  0.1344994
+9  2023  0.0887197  0.0289635  0.0597563
+10 2024  0.0027894 -0.0278629  0.0306523
+
+=================== PRE DAL 2012, PER I SUPPLEMENTARI ===================
+  citation_three_years   +1.3121 (SE 0.2867)  Mbar 0.50  pre_sig 1/4
+  big_hits1              +0.7092 (SE 0.0480)  Mbar 1.30  pre_sig 3/4
+  log_works              +0.0487 (SE 0.0095)  Mbar 0.30  pre_sig 0/4
+  log_net                +0.0066 (SE 0.0096)  Mbar 0.00  pre_sig 0/4
+
+
+FATTO.
